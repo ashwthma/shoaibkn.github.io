@@ -1605,7 +1605,7 @@ footer div  {
             justify-content:start;
             padding: 64px 60px;
             background-color: #c4c4c4;
-            width: 100%;
+            width: auto;
             height: 400px;
         
         }
